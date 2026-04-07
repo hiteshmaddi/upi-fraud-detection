@@ -1,11 +1,11 @@
 # 💳 UPI Fraud Detection System
 
-A machine learning-based system developed by **Yogitha Pulleti** to detect fraudulent UPI transactions using advanced classification techniques and an interactive web interface.
+A machine learning-based system developed by **Hitesh Sai Maddi** to detect fraudulent UPI transactions using advanced classification techniques and an interactive web interface.
 
 ---
 
 ## 🚀 Live Demo
-👉 https://upi-fraud-detection-27f8zgrnsylnxs5mlbfm5y.streamlit.app/
+👉 https://upi-fraud-detection-p2qlafamdsumwxra7qokqq.streamlit.app/
 
 ---
 
@@ -49,5 +49,5 @@ The system provides real-time predictions through an interactive **Streamlit das
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Yogitha9105/upi-fraud-detection.git
+git clone https://github.com/hiteshmaddi/upi-fraud-detection.git
 cd upi-fraud-detection
